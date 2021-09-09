@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/fingertips-book-react-website/static/css/main.b73e7102.chunk.css",
+    "main.js": "/fingertips-book-react-website/static/js/main.06778889.chunk.js",
+    "main.js.map": "/fingertips-book-react-website/static/js/main.06778889.chunk.js.map",
+    "runtime-main.js": "/fingertips-book-react-website/static/js/runtime-main.a85067b5.js",
+    "runtime-main.js.map": "/fingertips-book-react-website/static/js/runtime-main.a85067b5.js.map",
+    "static/js/2.8b1e5add.chunk.js": "/fingertips-book-react-website/static/js/2.8b1e5add.chunk.js",
+    "static/js/2.8b1e5add.chunk.js.map": "/fingertips-book-react-website/static/js/2.8b1e5add.chunk.js.map",
+    "index.html": "/fingertips-book-react-website/index.html",
+    "precache-manifest.0581e57088dae89ae4972b5587971c6b.js": "/fingertips-book-react-website/precache-manifest.0581e57088dae89ae4972b5587971c6b.js",
+    "service-worker.js": "/fingertips-book-react-website/service-worker.js",
+    "static/css/main.b73e7102.chunk.css.map": "/fingertips-book-react-website/static/css/main.b73e7102.chunk.css.map",
+    "static/js/2.8b1e5add.chunk.js.LICENSE.txt": "/fingertips-book-react-website/static/js/2.8b1e5add.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a85067b5.js",
+    "static/js/2.8b1e5add.chunk.js",
+    "static/css/main.b73e7102.chunk.css",
+    "static/js/main.06778889.chunk.js"
+  ]
+}
